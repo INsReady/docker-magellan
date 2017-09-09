@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`1`, `latest` (*Dockerfile*)](https://github.com/INsReady/docker-magellan/blob/master/Dockerfile)
+-	[`2`, `latest` (*Dockerfile*)](https://github.com/INsReady/docker-magellan/blob/master/Dockerfile)
 
 This image is updated via pull requests to [the `INsReady/docker-magellan` GitHub repo](https://github.com/INsReady/docker-magellan).
 
